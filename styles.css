@@ -3,11 +3,7 @@ body, html{
 }
 body{
   margin: 0px;
-  /*background: url('https://images.oyster.com/photos/pool--v17145440-w902.jpg');*/
-  background: url('Img/party.jpg');
-  /*background-color:#444;*/
-  background-size: cover;
-  background-position: center;  
+  background-color:#444;
   font-size: 18px;
 }
 body, a:link, a:visited, a:active{
@@ -29,12 +25,9 @@ body, a:link, a:visited, a:active{
   border-radius:10px;
   position:absolute;
 }
-.blinkydancer {
-  border:10px solid blue;
-  border-radius:10px;
+#funky{
+  display:block;
+  border:none;
+  border-radius:none;
   position:absolute;
-}
-.lineUpButton{
-  padding:5px 12px;
-  float:right;
 }
